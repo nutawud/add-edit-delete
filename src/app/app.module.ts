@@ -13,12 +13,12 @@ import {AngularFireModule} from 'angularfire2';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 
 export const config = {
-  apiKey: "AIzaSyAebHAS2VCtEaKDhZXEs7tjmdobgU0C4Pg",
-  authDomain: "testedit-3d836.firebaseapp.com",
-  databaseURL: "https://testedit-3d836.firebaseio.com",
-  projectId: "testedit-3d836",
-  storageBucket: "testedit-3d836.appspot.com",
-  messagingSenderId: "403640493279"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 @NgModule({
